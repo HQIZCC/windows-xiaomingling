@@ -2,5 +2,5 @@
 # 让电脑说爱你
 > 1. 新建记事本
 > 2. 输入：　CreateObject("SAPI.SpVoice").Speak"I LOVE YOU"
-> 3. 保存为：.VBS　文件
+> 3. 保存为：.vbs　文件
 ＃　待添加
